@@ -1,5 +1,5 @@
-#ifndef __xesp8_gpio_h__
-#define __xesp8_gpio_h__
+#ifndef __x8_gpio_h__
+#define __x8_gpio_h__
 
 #include "esp_err.h"
 #include "driver/gpio.h"

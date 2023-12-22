@@ -1,4 +1,4 @@
-#include "esp_gpio.h"
+#include "x8_gpio.h"
 
 esp_err_t set_gpio_pin_output(gpio_num_t num)
 {
